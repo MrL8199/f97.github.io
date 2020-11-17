@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://devcui.com/2020/01/tam-su-dau-nam/</loc>
+        <lastmod>2020-11-17T06:38:37.394Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devcui.com/2020/11/viet-cho-nhung-ngay-thang-nhin-dau-cung-thay-bao-giong/</loc>
         <lastmod>2020-11-06T02:48:11.610Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,14 +186,6 @@
 
     <url>
         <loc>https://devcui.com/2019/08/tam-biet-nhe/</loc>
-        <lastmod>2020-11-06T02:42:40.130Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devcui.com/2020/01/tam-su-dau-nam/</loc>
         <lastmod>2020-11-06T02:42:40.130Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

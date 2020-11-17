@@ -10,6 +10,24 @@
     
     
     <url>
+        <loc>https://devcui.com/bucket-list/</loc>
+        <lastmod>2020-11-17T06:37:20.018Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://devcui.com/about/</loc>
+        <lastmod>2020-11-15T03:33:55.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://devcui.com/timeline/</loc>
         <lastmod>2020-11-06T02:42:40.153Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -28,26 +46,8 @@
     
     
     <url>
-        <loc>https://devcui.com/bucket-list/</loc>
-        <lastmod>2020-11-06T02:42:40.132Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://devcui.com/404.html</loc>
         <lastmod>2020-11-06T02:42:40.125Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://devcui.com/about/</loc>
-        <lastmod>2018-12-28T03:33:55.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
