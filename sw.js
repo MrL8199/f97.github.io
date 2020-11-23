@@ -27,6 +27,8 @@ var precacheUrls = [
 
   '/',
 
+  '/2020/11/con-thay-vo-ban-gai-co-quan/',
+
   '/2020/11/co-nhung-tuoi-tre-chang-dang-mot-xu/',
 
   '/2020/11/viet-cho-nhung-ngay-thang-nhin-dau-cung-thay-bao-giong/',
@@ -34,8 +36,6 @@ var precacheUrls = [
   '/2020/10/phia-sau-giong-bao/',
 
   '/2020/10/tuoi-tre-la-that/',
-
-  '/2020/10/nofap-day-15-deleted-facebook-day-106-va-nhung-ngay-mua/',
 
 ];
 toolbox.precache(precacheUrls);

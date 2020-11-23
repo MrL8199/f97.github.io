@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://devcui.com/2020/11/con-thay-vo-ban-gai-co-quan/</loc>
+        <lastmod>2020-11-23T04:27:55.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2020/11/co-nhung-tuoi-tre-chang-dang-mot-xu/</loc>
+        <lastmod>2020-11-23T04:09:03.808Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devcui.com/2019/08/thanh-xuan-nhu-may-troi/</loc>
         <lastmod>2020-11-23T04:01:56.515Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,14 +98,6 @@
 
     <url>
         <loc>https://devcui.com/2020/03/cuoi-tuan-di-dau/</loc>
-        <lastmod>2020-11-23T04:01:56.512Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devcui.com/2020/11/co-nhung-tuoi-tre-chang-dang-mot-xu/</loc>
         <lastmod>2020-11-23T04:01:56.512Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

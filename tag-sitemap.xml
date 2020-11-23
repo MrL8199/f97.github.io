@@ -3,6 +3,41 @@
 
 
     <url>
+        <loc>https://devcui.com/tags/ngu/</loc>
+        <lastmod>2020-11-23T04:27:55.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devcui.com/tags/tao-lao/</loc>
+        <lastmod>2020-11-23T04:27:55.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devcui.com/tags/blog/</loc>
+        <lastmod>2020-11-23T04:09:03.808Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devcui.com/tags/life/</loc>
+        <lastmod>2020-11-23T04:09:03.808Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devcui.com/tags/random/</loc>
+        <lastmod>2020-11-23T04:09:03.808Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://devcui.com/tags/todo/</loc>
         <lastmod>2020-11-23T04:01:56.515Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -11,13 +46,6 @@
 
     <url>
         <loc>https://devcui.com/tags/nhat-ky/</loc>
-        <lastmod>2020-11-23T04:01:56.515Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devcui.com/tags/life/</loc>
         <lastmod>2020-11-23T04:01:56.515Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -53,20 +81,6 @@
 
     <url>
         <loc>https://devcui.com/tags/minimalism/</loc>
-        <lastmod>2020-11-23T04:01:56.513Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devcui.com/tags/blog/</loc>
-        <lastmod>2020-11-23T04:01:56.513Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devcui.com/tags/random/</loc>
         <lastmod>2020-11-23T04:01:56.513Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
