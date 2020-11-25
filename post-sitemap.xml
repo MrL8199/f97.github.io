@@ -41,14 +41,6 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/08/kho-nghi-qua-di/</loc>
-        <lastmod>2020-11-23T04:01:56.513Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devcui.com/2020/10/moi-ngay-vut-mot-mon-do-tai-sao-khong/</loc>
         <lastmod>2020-11-23T04:01:56.513Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -65,7 +57,7 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/01/nam-moi-ngheo-blog-va-linh-tinh/</loc>
+        <loc>https://devcui.com/2019/08/kho-nghi-qua-di/</loc>
         <lastmod>2020-11-23T04:01:56.513Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -74,6 +66,14 @@
 
     <url>
         <loc>https://devcui.com/2019/08/nghi-lam-di-choi/</loc>
+        <lastmod>2020-11-23T04:01:56.513Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2019/01/nam-moi-ngheo-blog-va-linh-tinh/</loc>
         <lastmod>2020-11-23T04:01:56.513Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -113,7 +113,7 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/02/toi-mot-minh-vi-dang-doi-mot-ai-do-thich-hop/</loc>
+        <loc>https://devcui.com/2020/10/tuoi-tre-la-that/</loc>
         <lastmod>2020-11-06T02:42:40.132Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -121,7 +121,7 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2020/10/tuoi-tre-la-that/</loc>
+        <loc>https://devcui.com/2019/02/toi-mot-minh-vi-dang-doi-mot-ai-do-thich-hop/</loc>
         <lastmod>2020-11-06T02:42:40.132Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -137,7 +137,7 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/05/thang-luong-dau-tien-co-mot-loai-hanh-phuc-mang-ten-tu-lap/</loc>
+        <loc>https://devcui.com/2020/09/toi-gian/</loc>
         <lastmod>2020-11-06T02:42:40.131Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -153,7 +153,7 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/01/the-html-khong-can-the-dong/</loc>
+        <loc>https://devcui.com/2020/03/tinh-khau-mot-ngay/</loc>
         <lastmod>2020-11-06T02:42:40.131Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -161,7 +161,15 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/01/tieng-anh-oi/</loc>
+        <loc>https://devcui.com/2019/05/thang-luong-dau-tien-co-mot-loai-hanh-phuc-mang-ten-tu-lap/</loc>
+        <lastmod>2020-11-06T02:42:40.131Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2019/01/the-html-khong-can-the-dong/</loc>
         <lastmod>2020-11-06T02:42:40.131Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -177,7 +185,7 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2020/03/tinh-khau-mot-ngay/</loc>
+        <loc>https://devcui.com/2019/01/tieng-anh-oi/</loc>
         <lastmod>2020-11-06T02:42:40.131Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -185,8 +193,32 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2020/09/toi-gian/</loc>
-        <lastmod>2020-11-06T02:42:40.131Z</lastmod>
+        <loc>https://devcui.com/2020/10/nofap-day-15-deleted-facebook-day-106-va-nhung-ngay-mua/</loc>
+        <lastmod>2020-11-06T02:42:40.130Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2020/04/phong-van-react/</loc>
+        <lastmod>2020-11-06T02:42:40.130Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2019/08/tam-biet-nhe/</loc>
+        <lastmod>2020-11-06T02:42:40.130Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2019/05/ngo-nhan/</loc>
+        <lastmod>2020-11-06T02:42:40.130Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -209,30 +241,6 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/05/ngo-nhan/</loc>
-        <lastmod>2020-11-06T02:42:40.130Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devcui.com/2020/04/phong-van-react/</loc>
-        <lastmod>2020-11-06T02:42:40.130Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devcui.com/2020/10/nofap-day-15-deleted-facebook-day-106-va-nhung-ngay-mua/</loc>
-        <lastmod>2020-11-06T02:42:40.130Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devcui.com/2019/02/roi-ta-con-lai-gi-sau-nhung-nam-thang-ay/</loc>
         <lastmod>2020-11-06T02:42:40.130Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,8 +249,8 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/08/tam-biet-nhe/</loc>
-        <lastmod>2020-11-06T02:42:40.130Z</lastmod>
+        <loc>https://devcui.com/2020/05/ky-lan-nga-ngua/</loc>
+        <lastmod>2020-11-06T02:42:40.129Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -257,7 +265,7 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2020/05/ky-lan-nga-ngua/</loc>
+        <loc>https://devcui.com/2019/02/mot-lit-nuoc-mat/</loc>
         <lastmod>2020-11-06T02:42:40.129Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -281,8 +289,32 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/02/mot-lit-nuoc-mat/</loc>
-        <lastmod>2020-11-06T02:42:40.129Z</lastmod>
+        <loc>https://devcui.com/2020/09/gioi-thieu-devilbox/</loc>
+        <lastmod>2020-11-06T02:42:40.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2020/05/goodbye-facebook/</loc>
+        <lastmod>2020-11-06T02:42:40.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2020/05/chung-ta-nen-dung-good-luck-to-you-hay-good-luck-for-you/</loc>
+        <lastmod>2020-11-06T02:42:40.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2019/05/da-tung/</loc>
+        <lastmod>2020-11-06T02:42:40.128Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -297,7 +329,7 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2020/05/chung-ta-nen-dung-good-luck-to-you-hay-good-luck-for-you/</loc>
+        <loc>https://devcui.com/2019/02/doi-dong-cho-tuoi-22/</loc>
         <lastmod>2020-11-06T02:42:40.128Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -321,47 +353,7 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2019/05/da-tung/</loc>
-        <lastmod>2020-11-06T02:42:40.128Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devcui.com/2019/02/doi-dong-cho-tuoi-22/</loc>
-        <lastmod>2020-11-06T02:42:40.128Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devcui.com/2020/09/gioi-thieu-devilbox/</loc>
-        <lastmod>2020-11-06T02:42:40.128Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devcui.com/2020/05/goodbye-facebook/</loc>
-        <lastmod>2020-11-06T02:42:40.128Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devcui.com/2019/01/bat-tre-dong-xanh/</loc>
-        <lastmod>2020-11-06T02:42:40.127Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devcui.com/2019/01/cai-gia-cua-su-truong-thanh/</loc>
+        <loc>https://devcui.com/2020/09/choi-dua-voi-dokku/</loc>
         <lastmod>2020-11-06T02:42:40.127Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -385,7 +377,15 @@
     </url>
 
     <url>
-        <loc>https://devcui.com/2020/09/choi-dua-voi-dokku/</loc>
+        <loc>https://devcui.com/2019/01/cai-gia-cua-su-truong-thanh/</loc>
+        <lastmod>2020-11-06T02:42:40.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devcui.com/2019/01/bat-tre-dong-xanh/</loc>
         <lastmod>2020-11-06T02:42:40.127Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
