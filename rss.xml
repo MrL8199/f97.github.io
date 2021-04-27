@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dev Cùi</title>
+    <link>https://devcui.com/</link>
+    
+    <image>
+      <url>https://devcui.com/icon.png</url>
+      <title>Dev Cùi</title>
+      <link>https://devcui.com/</link>
+    </image>
+    
+    <atom:link href="https://devcui.com/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Một con người luôn nhìn sự thay đổi của thế giới bằng con mắt của người cõi trên… :)))</description>
+    <pubDate>Sun, 10 Jan 2021 04:39:36 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Sắp hết năm, tổng kết 2020, phấn đấu cho 2021</title>
+      <link>https://devcui.com/2021/01/sap-het-nam-tong-ket-2020-phan-dau-2021/</link>
+      <guid>https://devcui.com/2021/01/sap-het-nam-tong-ket-2020-phan-dau-2021/</guid>
+      <pubDate>Sun, 10 Jan 2021 04:39:36 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;style&gt;
+  .post .post-content ul {
+    margin-left: 0
+  }
+  .post .post-content ul li {
+    list-style-type: none
+  }
+  li input {
+   </description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://devcui.com/2021/01/sap-het-nam-tong-ket-2020-phan-dau-2021/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>[Tâm sự đầu năm 2020] Sự nghiệp, tình yêu, làm sao để cân bằng?</title>
+      <link>https://devcui.com/2020/01/tam-su-dau-nam/</link>
+      <guid>https://devcui.com/2020/01/tam-su-dau-nam/</guid>
+      <pubDate>Thu, 30 Jan 2020 06:56:56 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Đầu năm 2020 đặt ra biết bao nhiêu mục tiêu, đầu năm canh tí thì viết ra bao nhiều hoài bão… Trước khi đi vào bài hôm nay, thôi thì</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://devcui.com/tags/life/">life</category>
+      
+      <category domain="https://devcui.com/tags/dau-nam/">đầu năm</category>
+      
+      <category domain="https://devcui.com/tags/linh-tinh/">linh tinh</category>
+      
+      
+      <comments>https://devcui.com/2020/01/tam-su-dau-nam/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Mục tiêu của Sói trong năm 2019</title>
+      <link>https://devcui.com/2018/12/to-do-list-2019/</link>
+      <guid>https://devcui.com/2018/12/to-do-list-2019/</guid>
+      <pubDate>Mon, 31 Dec 2018 06:20:38 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;a href=&quot;/bucket-list&quot;&gt;Bucket List&lt;/a&gt; thì mình đã có rồi, hôm nay cũng đã là cuối năm rồi… Nên thôi mình cũng viết một cái &lt;em&gt;Todo</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://devcui.com/tags/life/">life</category>
+      
+      <category domain="https://devcui.com/tags/todo/">todo</category>
+      
+      
+      <comments>https://devcui.com/2018/12/to-do-list-2019/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Mấy lời tổng kết 2018</title>
+      <link>https://devcui.com/2018/12/may-loi-tong-ket-2018/</link>
+      <guid>https://devcui.com/2018/12/may-loi-tong-ket-2018/</guid>
+      <pubDate>Sun, 30 Dec 2018 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Cuối năm ngoài nhà chả biết làm gì? Cafe với thằng bạn rồi lại nằm nhà học tiếng anh, tự kỷ &lt;i class=&quot;em em-yum&quot;&gt;&lt;/i&gt;  rồi lại chơi</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://devcui.com/tags/life/">life</category>
+      
+      <category domain="https://devcui.com/tags/random/">random</category>
+      
+      
+      <comments>https://devcui.com/2018/12/may-loi-tong-ket-2018/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
